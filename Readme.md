@@ -1,5 +1,10 @@
+# Overview
+
 This repository contains the schematics/ pcb layout for a GRBL control board.
+
 The PCB layout is fit onto a 7x5 cm pcb.
+
+# Description
 
 Due to custom pin assignments a custom GRBL version needs to be used [1].
 
