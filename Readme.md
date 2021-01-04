@@ -18,5 +18,7 @@ Components required:
  * 3 JST XH connectors for endstops and probe connector
  * Additional extension header to mount Arduino Nano a bit higher to have space for connectors (I soldered together male and female pin headers for that)
  * Screw terminal soldered onto some cables for power connector
+ 
+ A 3d printable case can be found on thingiverse: https://www.thingiverse.com/thing:4709614
 
 [1] https://github.com/sg-dev1/grbl
